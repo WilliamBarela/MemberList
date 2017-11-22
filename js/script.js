@@ -1,7 +1,7 @@
 //script.js
 
 (function(){
-    const peopleJsonUrl = "https://raw.githubusercontent.com/WilliamBarela/MemberList/master/app/assets/json/people.json";
+    const peopleJsonUrl = "https://raw.githubusercontent.com/WilliamBarela/MemberList/master/assets/json/people.json";
 
     fetch(peopleJsonUrl).then(function(response) {
 			return(response.json());
