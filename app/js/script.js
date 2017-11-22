@@ -16,31 +16,36 @@
       const config = response.config;
       const staff = response.staff;
 
-      let row = document.createElement('div');
-      let img_div = document.createElement('div');
-      let info_div = document.createElement('div');
 
-      genPersonRow();
+      // change to for person in staff
+      for(let i=10; i>0; i--){
+        let row = document.createElement('div');
+        let img_div = document.createElement('div');
+        let info_div = document.createElement('div');
 
-      function genImgDiv(){
+        //add person to the arguments:
+        genPersonRow(row, img_div, info_div);
+      };
+
+      function genImgDiv(img_div){
 
       };
 
-      function genInfoDiv(){
+      function genInfoDiv(info_div){
 
       };
 
-      function joinAttachRow(){
+      function joinAttachRow(row, img_div, info_div){
         row.appendChild(img_div);
         row.appendChild(info_div);
         console.log(row);
         people.appendChild(row);
       };
 
-      function genPersonRow(){
-        genImgDiv();
-        genInfoDiv();
-        joinAttachRow();
+      function genPersonRow(row, img_div, info_div){
+        genImgDiv(img_div);
+        genInfoDiv(info_div);
+        joinAttachRow(row, img_div, info_div);
       };
     };
 
