@@ -16,22 +16,20 @@
       const config = response.config;
       const staff = response.staff;
 
-
-      // change to for person in staff
-      for(let i=10; i>0; i--){
+      for(let i=0; i<staff.length; i++){
+        let person = people[i];
         let row = document.createElement('div');
         let img_div = document.createElement('div');
         let info_div = document.createElement('div');
 
-        //add person to the arguments:
-        genPersonRow(row, img_div, info_div);
+        genPersonRow(person, row, img_div, info_div);
       };
 
-      function genImgDiv(img_div){
+      function genImgDiv(person, img_div){
 
       };
 
-      function genInfoDiv(info_div){
+      function genInfoDiv(person, info_div){
 
       };
 
@@ -42,9 +40,9 @@
         people.appendChild(row);
       };
 
-      function genPersonRow(row, img_div, info_div){
-        genImgDiv(img_div);
-        genInfoDiv(info_div);
+      function genPersonRow(person, row, img_div, info_div){
+        genImgDiv(person, img_div);
+        genInfoDiv(person, info_div);
         joinAttachRow(row, img_div, info_div);
       };
     };
