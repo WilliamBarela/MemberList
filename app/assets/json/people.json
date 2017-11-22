@@ -3,7 +3,8 @@
     "href_prepend": "/biology/people/Staff/",
     "src_prepend": "/biology/people/Staff/img/",
     "img_class": "hide-for-small-only medium-3 large-4 columns",
-    "info_class": "small-12 medium-9 large-8 columns"
+    "info_class": "small-12 medium-9 large-8 columns",
+    "notes": "change href and src to relative on TTU network, hence /biology..."
   },
   "staff": [
     {
