@@ -41,7 +41,39 @@
       };
 
       function genInfoDiv(person, info_div){
+        let name = document.createElement('h2');
+        let link = document.createElement('a');
+        let title = document.createElement('h4');
+        let email = document.createElement('p');
+        let email_link = document.createElement('a');
+        let phone = document.createElement('p');
+        let office = document.createElement('p');
 
+        let children = [name, title, email, phone, office];
+
+        info_div.setAttribute('class', config.info_class);
+
+        link.setAttribute('href', config.href_prepend + person.href_postpend);
+        link.textContent = person.name;
+        name.appendChild(link);
+
+
+        title.setAttribute('class', 'italic');
+        title.textContent = person.title;
+
+        email_link.setAttribute('href', "mailto:" + person.email);
+        email_link.textContent = person.email;
+
+        email.textContent = "Contact: ";
+        email.appendChild(email_link);
+
+        phone.textContent = "Phone: " + person.phone;
+
+        office.textContent = "Office: " + person.office;
+
+        for(let i=0; i<children.length; i++){
+            info_div.appendChild(children[i]);
+        }
       };
 
       function joinAttachRow(row, img_div, info_div){
