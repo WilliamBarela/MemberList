@@ -8,6 +8,7 @@
   "staff": [
     {
       "name": "William Barela",
+      "alt": "William Barela",
       "href_postpend": "william.php",
       "image": "william.jpg",
       "title": "Programmer Analyst I",
@@ -17,6 +18,7 @@
     },
     {
       "name": "Lisa Dion",
+      "alt": "Lisa Dion",
       "href_postpend": "dion.php",
       "image": "lisa.jpg",
       "title": "Lead Account Processor",
@@ -26,6 +28,7 @@
     },
     {
       "name": "Stephanie Eggeling",
+      "alt": "Stephanie Eggeling",
       "href_postpend": "eggeling.php",
       "image": "stephanie.jpg",
       "title": "Sr. Business Assistant",
@@ -35,6 +38,7 @@
     },
     {
       "name": "Carol D. Espinosa",
+      "alt": "Carol D. Espinosa",
       "href_postpend": "espinosa.php",
       "image": "carol.jpg",
       "title": "Sr. Business Assistant",
@@ -44,6 +48,7 @@
     },
     {
       "name": "Vina Khan",
+      "alt": "Vina Khan",
       "href_postpend": "khan.php",
       "image": "vina.jpg",
       "title": "Specialist II",
@@ -53,6 +58,7 @@
     },
     {
       "name": "Lanita Ladd",
+      "alt": "Lanita Ladd",
       "href_postpend": "ladd.php",
       "image": "lanita.jpg",
       "title": "Unit Coordinator",
@@ -62,6 +68,7 @@
     },
     {
       "name": "Christopher Long",
+      "alt": "Christopher Long",
       "href_postpend": "chris.php",
       "image": "chris.jpg",
       "title": "Building Manager",
@@ -71,6 +78,7 @@
     },
     {
       "name": "Jacqueline Miralles-Salazar",
+      "alt": "Jacqueline Miralles-Salazar",
       "href_postpend": "Miralles-Salazar.php",
       "image": "jacqueline.jpg",
       "title": "Senior Technician",
@@ -80,6 +88,7 @@
     },
     {
       "name": "Raquel Miranda",
+      "alt": "Raquel Miranda",
       "href_postpend": "miranda.php",
       "image": "raquel.jpg",
       "title": "Admin Business Assistant",
@@ -89,6 +98,7 @@
     },
     {
       "name": "Pat Moore",
+      "alt": "Pat Moore",
       "href_postpend": "moore.php",
       "image": "pat.jpg",
       "title": "Sr. Office Assistant",
@@ -98,6 +108,7 @@
     },
     {
       "name": "Vincent M. Sisneros",
+      "alt": "Vincent M. Sisneros",
       "href_postpend": "sisneros.php",
       "image": "vince.jpg",
       "title": "Sr. Academic Advisor",
@@ -107,6 +118,7 @@
     },
     {
       "name": "Jennifer R. Smith",
+      "alt": "Jennifer R. Smith",
       "href_postpend": "smith.php",
       "image": "jennifer.jpg",
       "title": "Greenhouse Manager",
