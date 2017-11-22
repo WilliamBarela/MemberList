@@ -1,0 +1,131 @@
+{
+  "config": {
+    "href_prepend": "https://www.depts.ttu.edu/biology/people/Staff/",
+    "src_prepend": "https://www.depts.ttu.edu/biology/people/Staff/img/",
+    "img_class": "hide-for-small-only medium-3 large-4 columns",
+    "info_class": "small-12 medium-9 large-8 columns",
+    "notes": "change href and src to relative on TTU network, hence /biology..."
+  },
+  "staff": [
+    {
+      "name": "William Barela",
+      "alt": "William Barela",
+      "href_postpend": "william.php",
+      "image": "william.jpg",
+      "title": "Programmer Analyst I",
+      "email": "william.barela@ttu.edu",
+      "phone": "1 (806) 834-4775",
+      "office": "Biology 24"
+    },
+    {
+      "name": "Lisa Dion",
+      "alt": "Lisa Dion",
+      "href_postpend": "dion.php",
+      "image": "lisa.jpg",
+      "title": "Lead Account Processor",
+      "email": "lisa.dion@ttu.edu",
+      "phone": "1 (806) 834-2386",
+      "office": "Biology 108D"
+    },
+    {
+      "name": "Stephanie Eggeling",
+      "alt": "Stephanie Eggeling",
+      "href_postpend": "eggeling.php",
+      "image": "stephanie.jpg",
+      "title": "Sr. Business Assistant",
+      "email": "stephanie.eggeling@ttu.edu",
+      "phone": "1 (806) 834-3852",
+      "office": "Biology 108E"
+    },
+    {
+      "name": "Carol D. Espinosa",
+      "alt": "Carol D. Espinosa",
+      "href_postpend": "espinosa.php",
+      "image": "carol.jpg",
+      "title": "Sr. Business Assistant",
+      "email": "carol.d.espinosa@ttu.edu",
+      "phone": "1 (806) 834-5166",
+      "office": "Biology 112"
+    },
+    {
+      "name": "Vina Khan",
+      "alt": "Vina Khan",
+      "href_postpend": "khan.php",
+      "image": "vina.jpg",
+      "title": "Specialist II",
+      "email": "vina.khan@ttu.edu",
+      "phone": "1 (806) 834-5166",
+      "office": "Biology 110"
+    },
+    {
+      "name": "Lanita Ladd",
+      "alt": "Lanita Ladd",
+      "href_postpend": "ladd.php",
+      "image": "person.png",
+      "title": "Unit Coordinator",
+      "email": "lanita.ladd@ttu.edu",
+      "phone": "1 (806) 834-4287",
+      "office": "Biology 108C"
+    },
+    {
+      "name": "Christopher Long",
+      "alt": "Christopher Long",
+      "href_postpend": "chris.php",
+      "image": "chris.jpg",
+      "title": "Building Manager",
+      "email": "christopher.long@ttu.edu",
+      "phone": "1 (806) 549-5614",
+      "office": "Biology 111A"
+    },
+    {
+      "name": "Jacqueline Miralles-Salazar",
+      "alt": "Jacqueline Miralles-Salazar",
+      "href_postpend": "Miralles-Salazar.php",
+      "image": "person.png",
+      "title": "Senior Technician",
+      "email": "jacqueline.miralles-salazar@ttu.edu",
+      "phone": "1 (806) 834-1713",
+      "office": "Biololgy 303A"
+    },
+    {
+      "name": "Raquel Miranda",
+      "alt": "Raquel Miranda",
+      "href_postpend": "miranda.php",
+      "image": "raquel.jpg",
+      "title": "Admin Business Assistant",
+      "email": "raquel.miranda@ttu.edu",
+      "phone": "1 (806) 834-8331",
+      "office": "Biology 108E"
+    },
+    {
+      "name": "Pat Moore",
+      "alt": "Pat Moore",
+      "href_postpend": "moore.php",
+      "image": "person.png",
+      "title": "Sr. Office Assistant",
+      "email": "pat.moore@ttu.edu",
+      "phone": "1 (806) 834-0026",
+      "office": "Biology 108"
+    },
+    {
+      "name": "Vincent M. Sisneros",
+      "alt": "Vincent M. Sisneros",
+      "href_postpend": "sisneros.php",
+      "image": "vince.jpg",
+      "title": "Sr. Academic Advisor",
+      "email": "vincent.m.sisneros@ttu.edu",
+      "phone": "1 (806) 834-2351",
+      "office": "Biology 10"
+    },
+    {
+      "name": "Jennifer R. Smith",
+      "alt": "Jennifer R. Smith",
+      "href_postpend": "smith.php",
+      "image": "jennifer.jpg",
+      "title": "Greenhouse Manager",
+      "email": "jennifer.r.smith@ttu.edu",
+      "phone": "1 (806) 834-7614",
+      "office": "Biology Greenhouse"
+    }
+  ]
+}
