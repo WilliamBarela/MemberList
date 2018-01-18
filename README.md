@@ -1,7 +1,7 @@
 # MemberList
 Sandbox for Ajax and JSON projects written in Vanilla.js
 
-## [williambarela.github.io/MemberList](williambarela.github.io/MemberList)
+## [https://williambarela.github.io/MemberList](https://williambarela.github.io/MemberList)
 
 With a single div with `id="people"` in `index.html`, the `js/script.js` file pulls information from `assets/json/people.json` and populates the webpage with user profiles, pictures, and links.
 
